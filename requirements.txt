@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+transformers
+opencv-python-headless
+pillow
+numpy
+segment-anything
+open_clip_torch
+faiss-cpu
+rembg
+onnxruntime
